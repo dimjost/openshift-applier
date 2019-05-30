@@ -1,4 +1,4 @@
 ---
 
-- src: https://github.com/redhat-cop/casl-ansible
+- src: https://github.com/dimjost/casl-ansible
   version: master
